@@ -1,3 +1,0 @@
-from dev2 text
-line number 2
-line 3
